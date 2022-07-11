@@ -1637,3 +1637,463 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.07.11-02.22.35:713][ 11]AssetCheck: New page: Asset Save: multiple assets
 [2022.07.11-02.22.35:713][ 11]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PolygonTown/Maps/Demonstration_BuiltData.Demonstration_BuiltData
 [2022.07.11-02.22.35:714][ 11]LogContentValidation: Display: Validating World /Game/PolygonTown/Maps/Demonstration.Demonstration
+[2022.07.11-02.31.16:292][957]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/teste/Downloads/cavalo.wav)
+[2022.07.11-02.31.18:325][166]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave cavalo...
+[2022.07.11-02.31.18:325][166]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Game/Song/cavalo.cavalo will be modified from 40 to 40.
+[2022.07.11-02.31.18:366][166]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 246716 while cooking SoundWave /Game/Game/Song/cavalo.cavalo.
+[2022.07.11-02.32.29:260][208]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/teste/Downloads/ai.wav)
+[2022.07.11-02.32.29:829][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.07.11-02.32.29:832][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PolygonTown/Maps/Demonstration' took 0.061
+[2022.07.11-02.32.29:833][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Song/cavalo] ([1] browsable assets)...
+[2022.07.11-02.32.29:835][253]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Game/Song/cavalo.cavalo]
+[2022.07.11-02.32.29:835][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Song/cavalo]
+[2022.07.11-02.32.29:838][253]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/cavalo_Auto193A0E93B4660E991F5BFD0B12646EA04.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/Autosaves/Game/Game/Song/cavalo_Auto1.uasset'
+[2022.07.11-02.32.29:839][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Game/Song/ai] ([1] browsable assets)...
+[2022.07.11-02.32.29:841][253]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Game/Song/ai.ai]
+[2022.07.11-02.32.29:841][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Song/ai]
+[2022.07.11-02.32.29:841][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Song/ai" FILE="../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/Autosaves/Game/Game/Song/ai_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.07.11-02.32.29:842][253]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/ai_Auto146934C8C4BADD90FACB2A79B65D22EF4.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/Autosaves/Game/Game/Song/ai_Auto1.uasset'
+[2022.07.11-02.32.29:843][253]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.07.11-02.36.05:008][673]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.36.05:008][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.36.05:831][749]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.11-02.36.05:831][749]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.36.05:831][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.36.06:271][790]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.11-02.36.06:271][790]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.36.06:271][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.36.06:671][826]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.11-02.36.06:671][826]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.36.06:671][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.36.57:359][531]BlueprintLog: New page: Compile BP_BaseCar
+[2022.07.11-02.36.57:524][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.07.11-02.36.58:449][569]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/BP_BaseCar9BB3304A4C2019ECAFC14D837CBFF9EE.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.uasset'
+[2022.07.11-02.36.58:475][569]AssetCheck: New page: Asset Save: BP_BaseCar
+[2022.07.11-02.36.58:475][569]LogContentValidation: Display: Validating Blueprint /Game/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.BP_BaseCar
+[2022.07.11-02.37.06:981][553]BlueprintLog: New page: Compile BP_BaseCar
+[2022.07.11-02.37.07:131][553]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.07.11-02.37.07:828][568]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/BP_BaseCarE46906024FFD039A45BABB8F18D508F4.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.uasset'
+[2022.07.11-02.37.07:850][568]AssetCheck: New page: Asset Save: BP_BaseCar
+[2022.07.11-02.37.07:850][568]LogContentValidation: Display: Validating Blueprint /Game/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.BP_BaseCar
+[2022.07.11-02.37.09:523][745]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.11-02.37.09:536][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.11-02.37.09:536][745]PIE: New page: PIE session: Demonstration (Jul 10, 2022, 8:37:09 PM)
+[2022.07.11-02.37.09:536][745]LogPlayLevel: Creating play world package: /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.37.09:745][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208941s)
+[2022.07.11-02.37.09:746][745]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.11-02.37.09:747][745]LogPlayLevel: PIE: World Init took: (0.002031s)
+[2022.07.11-02.37.09:748][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonTown/Maps/Demonstration.Demonstration to /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.211519s)
+[2022.07.11-02.37.09:788][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.07.11-02.37.09:789][745]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.11-02.37.09:789][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.11-02.37.09:789][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.11-02.37.09:789][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.11-02.37.09:789][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.11-02.37.09:790][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.11-02.37.09:790][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.11-02.37.09:790][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.11-02.37.09:790][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.11-02.37.09:790][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.11-02.37.09:790][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.11-02.37.09:790][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.11-02.37.09:790][745]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.11-02.37.09:797][745]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.11-02.37.09:797][745]LogAudioMixer: Display: 1: FrontRight
+[2022.07.11-02.37.09:820][745]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.07.11-02.37.09:820][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.11-02.37.09:820][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.11-02.37.09:820][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.11-02.37.09:821][745]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.11-02.37.09:821][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.11-02.37.09:821][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.11-02.37.09:822][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.11-02.37.09:822][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.11-02.37.09:822][745]LogInit: FAudioDevice initialized.
+[2022.07.11-02.37.09:822][745]LogAudio: Display: Audio Device (ID: 9) registered with world 'Demonstration'.
+[2022.07.11-02.37.09:860][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.37.09:860][745]LogLoad: Game class is 'DC_GameMode_C'
+[2022.07.11-02.37.09:960][745]LogWorld: Bringing World /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.10-23.37.09
+[2022.07.11-02.37.09:962][745]LogWorld: Bringing up level for play took: 0.101512
+[2022.07.11-02.37.09:962][745]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.07.11-02.37.09:965][745]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.37.09:965][745]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.37.09:965][745]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.37.09:975][745]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.37.09:976][745]PIE: Server logged in
+[2022.07.11-02.37.09:977][745]PIE: Play in editor total start time 0.447 seconds.
+[2022.07.11-02.37.35:771][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.37.35:772][309]LogWorld: BeginTearingDown for /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.37.35:772][309]LogSlate: Window 'LittleRide Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.11-02.37.35:785][309]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.37.35:804][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.37.35:813][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.11-02.37.35:835][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.37.35:880][309]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.11-02.37.35:881][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.37.35:882][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.37.35:900][309]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.07.11-02.37.35:939][310]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.07.11-02.37.45:462][406]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave ai...
+[2022.07.11-02.37.45:462][406]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Game/Song/ai.ai will be modified from 40 to 40.
+[2022.07.11-02.37.45:494][406]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 163772 while cooking SoundWave /Game/Game/Song/ai.ai.
+[2022.07.11-02.39.28:133][838]BlueprintLog: New page: Compile BP_BaseCar
+[2022.07.11-02.39.28:283][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.07.11-02.39.29:140][870]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/BP_BaseCar2430E6E74907BC770AC549802C43895C.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.uasset'
+[2022.07.11-02.39.29:163][870]AssetCheck: New page: Asset Save: BP_BaseCar
+[2022.07.11-02.39.29:163][870]LogContentValidation: Display: Validating Blueprint /Game/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.BP_BaseCar
+[2022.07.11-02.39.35:457][580]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.11-02.39.35:470][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.11-02.39.35:471][580]PIE: New page: PIE session: Demonstration (Jul 10, 2022, 8:39:35 PM)
+[2022.07.11-02.39.35:471][580]LogPlayLevel: Creating play world package: /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.39.35:680][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208828s)
+[2022.07.11-02.39.35:681][580]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.11-02.39.35:682][580]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2022.07.11-02.39.35:683][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonTown/Maps/Demonstration.Demonstration to /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.211428s)
+[2022.07.11-02.39.35:723][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2022.07.11-02.39.35:724][580]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.11-02.39.35:724][580]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.11-02.39.35:724][580]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.11-02.39.35:724][580]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.11-02.39.35:724][580]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.11-02.39.35:724][580]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.11-02.39.35:724][580]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.11-02.39.35:724][580]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.11-02.39.35:724][580]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.11-02.39.35:725][580]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.11-02.39.35:725][580]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.11-02.39.35:725][580]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.11-02.39.35:725][580]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.11-02.39.35:731][580]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.11-02.39.35:731][580]LogAudioMixer: Display: 1: FrontRight
+[2022.07.11-02.39.35:751][580]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.07.11-02.39.35:751][580]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.11-02.39.35:751][580]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.11-02.39.35:751][580]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.11-02.39.35:752][580]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.11-02.39.35:752][580]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.11-02.39.35:752][580]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.11-02.39.35:753][580]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.11-02.39.35:753][580]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.11-02.39.35:753][580]LogInit: FAudioDevice initialized.
+[2022.07.11-02.39.35:753][580]LogAudio: Display: Audio Device (ID: 10) registered with world 'Demonstration'.
+[2022.07.11-02.39.35:793][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.39.35:793][580]LogLoad: Game class is 'DC_GameMode_C'
+[2022.07.11-02.39.35:891][580]LogWorld: Bringing World /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.10-23.39.35
+[2022.07.11-02.39.35:893][580]LogWorld: Bringing up level for play took: 0.098731
+[2022.07.11-02.39.35:893][580]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.07.11-02.39.35:896][580]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.39.35:896][580]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.39.35:896][580]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.39.35:906][580]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.39.35:907][580]PIE: Server logged in
+[2022.07.11-02.39.35:908][580]PIE: Play in editor total start time 0.443 seconds.
+[2022.07.11-02.40.11:273][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.40.11:273][807]LogWorld: BeginTearingDown for /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.40.11:273][807]LogSlate: Window 'LittleRide Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.11-02.40.11:288][807]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.40.11:305][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.40.11:315][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.11-02.40.11:337][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.40.11:382][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.11-02.40.11:383][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.40.11:385][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.40.11:403][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.07.11-02.40.11:449][808]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.07.11-02.41.05:225][888]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.11-02.41.05:238][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.11-02.41.05:239][888]PIE: New page: PIE session: Demonstration (Jul 10, 2022, 8:41:05 PM)
+[2022.07.11-02.41.05:239][888]LogPlayLevel: Creating play world package: /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.41.05:442][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204161s)
+[2022.07.11-02.41.05:443][888]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.11-02.41.05:444][888]LogPlayLevel: PIE: World Init took: (0.001848s)
+[2022.07.11-02.41.05:445][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonTown/Maps/Demonstration.Demonstration to /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.206613s)
+[2022.07.11-02.41.05:482][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.07.11-02.41.05:489][888]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.11-02.41.05:489][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.11-02.41.05:489][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.11-02.41.05:489][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.11-02.41.05:489][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.11-02.41.05:490][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.11-02.41.05:490][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.11-02.41.05:490][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.11-02.41.05:490][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.11-02.41.05:490][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.11-02.41.05:490][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.11-02.41.05:490][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.11-02.41.05:490][888]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.11-02.41.05:496][888]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.11-02.41.05:496][888]LogAudioMixer: Display: 1: FrontRight
+[2022.07.11-02.41.05:516][888]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.07.11-02.41.05:516][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.11-02.41.05:517][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.11-02.41.05:517][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.11-02.41.05:517][888]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.11-02.41.05:517][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.11-02.41.05:517][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.11-02.41.05:518][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.11-02.41.05:518][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.11-02.41.05:518][888]LogInit: FAudioDevice initialized.
+[2022.07.11-02.41.05:518][888]LogAudio: Display: Audio Device (ID: 11) registered with world 'Demonstration'.
+[2022.07.11-02.41.05:552][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.41.05:552][888]LogLoad: Game class is 'DC_GameMode_C'
+[2022.07.11-02.41.05:648][888]LogWorld: Bringing World /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.10-23.41.05
+[2022.07.11-02.41.05:651][888]LogWorld: Bringing up level for play took: 0.097543
+[2022.07.11-02.41.05:651][888]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.07.11-02.41.05:653][888]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.41.05:653][888]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.41.05:653][888]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.41.05:663][888]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.41.05:664][888]PIE: Server logged in
+[2022.07.11-02.41.05:665][888]PIE: Play in editor total start time 0.433 seconds.
+[2022.07.11-02.41.34:732][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.41.34:732][687]LogWorld: BeginTearingDown for /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.41.34:733][687]LogSlate: Window 'LittleRide Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.11-02.41.34:750][687]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.41.34:768][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.41.34:781][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.11-02.41.34:802][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.41.34:849][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.41.34:850][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.41.34:869][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.07.11-02.41.34:916][688]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.07.11-02.42.31:529][212]BlueprintLog: New page: Compile BP_BaseCar
+[2022.07.11-02.42.31:677][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.07.11-02.42.32:379][224]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/BP_BaseCarB66D842D42C4D9FA4F2ADFBB7642EB42.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.uasset'
+[2022.07.11-02.42.32:401][224]AssetCheck: New page: Asset Save: BP_BaseCar
+[2022.07.11-02.42.32:402][224]LogContentValidation: Display: Validating Blueprint /Game/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.BP_BaseCar
+[2022.07.11-02.42.33:890][377]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.11-02.42.33:903][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.11-02.42.33:903][377]PIE: New page: PIE session: Demonstration (Jul 10, 2022, 8:42:33 PM)
+[2022.07.11-02.42.33:904][377]LogPlayLevel: Creating play world package: /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.42.34:114][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.209411s)
+[2022.07.11-02.42.34:115][377]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.11-02.42.34:116][377]LogPlayLevel: PIE: World Init took: (0.001790s)
+[2022.07.11-02.42.34:116][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonTown/Maps/Demonstration.Demonstration to /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.211863s)
+[2022.07.11-02.42.34:156][377]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.07.11-02.42.34:156][377]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.11-02.42.34:157][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.11-02.42.34:157][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.11-02.42.34:157][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.11-02.42.34:157][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.11-02.42.34:157][377]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.11-02.42.34:163][377]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.11-02.42.34:163][377]LogAudioMixer: Display: 1: FrontRight
+[2022.07.11-02.42.34:183][377]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.07.11-02.42.34:183][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.11-02.42.34:183][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.11-02.42.34:183][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.11-02.42.34:184][377]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.11-02.42.34:184][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.11-02.42.34:184][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.11-02.42.34:185][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.11-02.42.34:185][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.11-02.42.34:185][377]LogInit: FAudioDevice initialized.
+[2022.07.11-02.42.34:185][377]LogAudio: Display: Audio Device (ID: 12) registered with world 'Demonstration'.
+[2022.07.11-02.42.34:211][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.42.34:211][377]LogLoad: Game class is 'DC_GameMode_C'
+[2022.07.11-02.42.34:308][377]LogWorld: Bringing World /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.10-23.42.34
+[2022.07.11-02.42.34:310][377]LogWorld: Bringing up level for play took: 0.098516
+[2022.07.11-02.42.34:310][377]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.07.11-02.42.34:313][377]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.42.34:313][377]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.42.34:313][377]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.42.34:323][377]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.42.34:325][377]PIE: Server logged in
+[2022.07.11-02.42.34:326][377]PIE: Play in editor total start time 0.428 seconds.
+[2022.07.11-02.42.53:392][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.42.53:392][568]LogWorld: BeginTearingDown for /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.42.53:392][568]LogSlate: Window 'LittleRide Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.11-02.42.53:407][568]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.42.53:425][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.42.53:434][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.11-02.42.53:457][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.42.53:503][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.11-02.42.53:504][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.42.53:505][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.42.53:523][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.07.11-02.42.53:563][569]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.07.11-02.42.56:277][873]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.11-02.42.56:290][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.11-02.42.56:290][873]PIE: New page: PIE session: Demonstration (Jul 10, 2022, 8:42:56 PM)
+[2022.07.11-02.42.56:290][873]LogPlayLevel: Creating play world package: /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.42.56:495][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.205423s)
+[2022.07.11-02.42.56:496][873]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.11-02.42.56:497][873]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2022.07.11-02.42.56:498][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonTown/Maps/Demonstration.Demonstration to /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.207762s)
+[2022.07.11-02.42.56:534][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.07.11-02.42.56:537][873]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.07.11-02.42.56:537][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.11-02.42.56:537][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.11-02.42.56:537][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.11-02.42.56:537][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.11-02.42.56:537][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.11-02.42.56:537][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.11-02.42.56:537][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.11-02.42.56:537][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.11-02.42.56:538][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.11-02.42.56:538][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.11-02.42.56:538][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.11-02.42.56:538][873]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.11-02.42.56:544][873]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.11-02.42.56:544][873]LogAudioMixer: Display: 1: FrontRight
+[2022.07.11-02.42.56:563][873]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.07.11-02.42.56:563][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.11-02.42.56:563][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.11-02.42.56:563][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.11-02.42.56:564][873]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.11-02.42.56:564][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.11-02.42.56:564][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.11-02.42.56:565][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.11-02.42.56:565][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.11-02.42.56:565][873]LogInit: FAudioDevice initialized.
+[2022.07.11-02.42.56:565][873]LogAudio: Display: Audio Device (ID: 13) registered with world 'Demonstration'.
+[2022.07.11-02.42.56:602][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.42.56:602][873]LogLoad: Game class is 'DC_GameMode_C'
+[2022.07.11-02.42.56:698][873]LogWorld: Bringing World /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.10-23.42.56
+[2022.07.11-02.42.56:700][873]LogWorld: Bringing up level for play took: 0.096638
+[2022.07.11-02.42.56:700][873]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.07.11-02.42.56:702][873]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.42.56:702][873]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.42.56:702][873]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.42.56:712][873]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.42.56:713][873]PIE: Server logged in
+[2022.07.11-02.42.56:714][873]PIE: Play in editor total start time 0.43 seconds.
+[2022.07.11-02.43.31:542][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.43.31:542][ 14]LogWorld: BeginTearingDown for /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.43.31:543][ 14]LogSlate: Window 'LittleRide Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.11-02.43.31:557][ 14]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.43.31:576][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.43.31:587][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.11-02.43.31:613][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.43.31:659][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.43.31:660][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.43.31:679][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.07.11-02.43.31:718][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.07.11-02.44.02:949][463]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/BP_BaseCar789135834EED8255A7E1F98C373238CF.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.uasset'
+[2022.07.11-02.44.02:965][463]AssetCheck: New page: Asset Save: BP_BaseCar
+[2022.07.11-02.44.02:965][463]LogContentValidation: Display: Validating Blueprint /Game/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.BP_BaseCar
+[2022.07.11-02.44.03:353][507]BlueprintLog: New page: Compile BP_BaseCar
+[2022.07.11-02.44.03:501][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.07.11-02.44.04:408][543]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/BP_BaseCar4DCC1364406C7DC21990F884B99FA843.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.uasset'
+[2022.07.11-02.44.04:430][543]AssetCheck: New page: Asset Save: BP_BaseCar
+[2022.07.11-02.44.04:430][543]LogContentValidation: Display: Validating Blueprint /Game/DriveableCar_basic/Blueprints/Vehicles/BP_BaseCar.BP_BaseCar
+[2022.07.11-02.44.07:261][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.07.11-02.44.07:275][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.11-02.44.07:275][843]PIE: New page: PIE session: Demonstration (Jul 10, 2022, 8:44:07 PM)
+[2022.07.11-02.44.07:275][843]LogPlayLevel: Creating play world package: /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.44.07:482][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208053s)
+[2022.07.11-02.44.07:484][843]LogAIModule: Creating AISystem for world Demonstration
+[2022.07.11-02.44.07:484][843]LogPlayLevel: PIE: World Init took: (0.001938s)
+[2022.07.11-02.44.07:485][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonTown/Maps/Demonstration.Demonstration to /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.210605s)
+[2022.07.11-02.44.07:528][843]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2022.07.11-02.44.07:529][843]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.11-02.44.07:529][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.11-02.44.07:529][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.11-02.44.07:529][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.11-02.44.07:529][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.11-02.44.07:529][843]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.11-02.44.07:535][843]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.11-02.44.07:535][843]LogAudioMixer: Display: 1: FrontRight
+[2022.07.11-02.44.07:555][843]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.07.11-02.44.07:555][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.11-02.44.07:555][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.11-02.44.07:555][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.11-02.44.07:556][843]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.11-02.44.07:556][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.11-02.44.07:556][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.11-02.44.07:557][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.11-02.44.07:557][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.11-02.44.07:557][843]LogInit: FAudioDevice initialized.
+[2022.07.11-02.44.07:557][843]LogAudio: Display: Audio Device (ID: 14) registered with world 'Demonstration'.
+[2022.07.11-02.44.07:582][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.44.07:582][843]LogLoad: Game class is 'DC_GameMode_C'
+[2022.07.11-02.44.07:681][843]LogWorld: Bringing World /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.07.10-23.44.07
+[2022.07.11-02.44.07:683][843]LogWorld: Bringing up level for play took: 0.101250
+[2022.07.11-02.44.07:684][843]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.07.11-02.44.07:686][843]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.44.07:686][843]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.07.11-02.44.07:686][843]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.44.07:696][843]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.07.11-02.44.07:697][843]PIE: Server logged in
+[2022.07.11-02.44.07:698][843]PIE: Play in editor total start time 0.43 seconds.
+[2022.07.11-02.44.34:002][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.11-02.44.34:002][373]LogWorld: BeginTearingDown for /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.07.11-02.44.34:002][373]LogSlate: Window 'LittleRide Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.11-02.44.34:014][373]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.07.11-02.44.34:033][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.44.34:043][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.11-02.44.34:067][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.11-02.44.34:114][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.11-02.44.34:114][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.44.34:115][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.11-02.44.34:133][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.07.11-02.44.34:172][374]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.07.11-02.50.11:660][641]MapCheck: New page: Map Check
+[2022.07.11-02.50.11:672][641]Cmd: MAP REBUILD ALLVISIBLE
+[2022.07.11-02.50.11:673][641]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.07.11-02.50.11:735][641]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=false
+[2022.07.11-02.50.11:946][641]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.07.11-02.50.11:946][641]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.07.11-02.50.11:946][641]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.07.11-02.50.12:010][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.07.11-02.50.12:044][641]LogLevel: Display: Export Material TexCoord Scales took 0.021 seconds.
+[2022.07.11-02.50.12:104][641]TextureStreamingBuild: Display: Build Texture Streaming took 0.061 seconds.
+[2022.07.11-02.50.12:156][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.07.11-02.50.12:162][641]LightingResults: New page: Lighting Build - Jul 10, 2022, 8:50:12 PM
+[2022.07.11-02.50.12:208][641]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.07.11-02.50.12:249][641]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.07.11-02.50.12:261][641]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.07.11-02.50.12:782][641]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.07.11-02.50.12:783][641]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2888
+[2022.07.11-02.50.15:241][641]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2022.07.11-02.50.15:250][641]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.07.11-02.50.15:250][641]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.07.11-02.50.15:250][641]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.07.11-02.50.15:251][641]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.07.11-02.50.15:251][641]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.07.11-02.50.15:500][641]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.07.11-02.50.15:500][641]MapCheck: New page: Demonstration - Jul 10, 2022, 8:50:15 PM
+[2022.07.11-02.50.15:504][641]MapCheck: Warning: SM_Env_Road_172 SM_Env_Road_172 is in the same location as SM_Env_Road_239 
+[2022.07.11-02.50.15:521][641]MapCheck: Warning: SM_Env_Road_239 SM_Env_Road_239 is in the same location as SM_Env_Road_172 
+[2022.07.11-02.50.15:522][641]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 22.364ms to complete.
+[2022.07.11-02.50.15:525][641]LogEditorBuildUtils: Build time 0:03
+[2022.07.11-02.50.16:036][641]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.11-02.50.16:036][641]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.11-02.50.16:036][641]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.11-02.50.16:036][641]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.07.11-02.50.16:036][641]LogShaderCompilers: Display: ================================================
+[2022.07.11-02.50.16:303][642]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2022.07.11-02.50.21:480][982]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2022.07.11-02.50.22:252][982]Job has failed! Job is closed while Tasks are still PENDING
+[2022.07.11-02.50.22:252][982]DumpUnbuiltLightIteractions
+[2022.07.11-02.50.22:252][982]Lights with unbuilt interactions: 0
+[2022.07.11-02.50.22:253][982]
+[2022.07.11-02.50.22:253][982]Primitives with unbuilt interactions: 0
+[2022.07.11-02.50.22:456][982]LogTexture: Display: Building textures: NewReflectionComponentTextureBC2BFB244309545D1CD0A693EE9EA471 (BGRA8, 128X128)
+[2022.07.11-02.50.22:491][983]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.07.11-02.50.22:491][983]MapCheck: New page: Demonstration - Jul 10, 2022, 8:50:22 PM
+[2022.07.11-02.50.22:494][983]MapCheck: Warning: SM_Env_Road_172 SM_Env_Road_172 is in the same location as SM_Env_Road_239 
+[2022.07.11-02.50.22:512][983]MapCheck: Warning: SM_Env_Road_239 SM_Env_Road_239 is in the same location as SM_Env_Road_172 
+[2022.07.11-02.50.22:513][983]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 21.577ms to complete.
+[2022.07.11-02.50.25:424][214]LogSlate: Window 'Message Log' being destroyed
+[2022.07.11-02.50.25:429][214]LogSlate: Window 'Message Log' being destroyed
+[2022.07.11-02.50.26:661][345]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.07.11-02.50.27:866][345]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/Demonstration91F9FF4B4175B18251FCE5BCD8E2B7BD.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/PolygonTown/Maps/Demonstration.umap'
+[2022.07.11-02.50.32:722][345]LogSavePackage: Moving '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Saved/Demonstration_BuiltData74BB0C44409719B47656958FF2567563.tmp' to '../../../../../../Users/teste/Documents/Unreal Projects/LittleRide/Content/PolygonTown/Maps/Demonstration_BuiltData.uasset'
+[2022.07.11-02.50.32:750][345]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.11-02.50.32:750][345]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/PolygonTown/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2022.07.11-02.50.32:750][345]LogContentValidation: Display: Validating World /Game/PolygonTown/Maps/Demonstration.Demonstration
